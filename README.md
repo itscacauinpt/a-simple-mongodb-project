@@ -6,7 +6,7 @@
 Projeto feito de forma individual durante o curso da [Trybe](https://www.betrybe.com/).
 Nesse projeto, trabalhamos com o banco de dados commerce, que contém dados do cardápio do McDonald's, como ingredientes, valores nutricionais e dados fictícios de vendas.
 <br/>
-:sparkle: Na pasta #challenges você pode encontrar queries desenvolvidas para cada requisicação do projeto.
+✨ Na pasta #challenges você pode encontrar queries desenvolvidas para cada requisicação do projeto.
 
 ## 🔧 Funcionalidades
   * Encontrando/filtrando dados;
